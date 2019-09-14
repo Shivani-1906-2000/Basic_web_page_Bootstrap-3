@@ -1,0 +1,14 @@
+body{padding:0px;
+margin:0px;}
+.carousel-inner > item >img{position: absolute;
+min-height:100%;
+min-width: 100%;
+} 
+.carousel{margin-bottom: 50px;
+width:100%;}
+.col-lg-4{text-align: center;}
+.row{padding-left:50px;
+padding-top:80px;
+margin-bottom:20px;}
+footer{margin-left:80px;
+}
